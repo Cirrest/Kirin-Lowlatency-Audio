@@ -1,4 +1,4 @@
-# HW-Kirin-Low-latency-Audio
+# Kirin Lowlatency Audio
 Huawei Kirin Processor Low latency Audio Maigsk Module<br>
 This is a module that improves the audio quality and reduces audio latency of Huawei Kirin processors.<br>
 The project is also posted in [CoolApk](https://www.coolapk.com/feed/52302433?shareKey=Zjg1MjExYTc5MzdiNjZiNzZiMDg~&shareUid=2679393&shareFrom=com.coolapk.market_14.4.0-beta2
