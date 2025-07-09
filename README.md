@@ -33,3 +33,6 @@ Negative effects:
 Sound effects will be turned off (disable the module and restart the system to recover)<br>
 Some devices cannot output normal audio (the problem is not supported by the device)<br>
 The results may vary depending on the hardware and software of the device.<br><br>
+![iamge](https://github.com/Cirrest/Kirin-Lowlatency-Audio/blob/main/1.jpeg)
+![iamge](https://github.com/Cirrest/Kirin-Lowlatency-Audio/blob/main/2.jpeg)
+![iamge](https://github.com/Cirrest/Kirin-Lowlatency-Audio/blob/main/3.jpeg)
