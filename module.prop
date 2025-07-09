@@ -1,0 +1,6 @@
+id=audio_mod_hi6403
+name=HUAWEI Audio Mod hi6403
+version=1.4 beta
+versionCode=1
+author=Cirrest
+description=The HUAWEI audio mod for Kirin hi6403 audio card devices.It can enable Kirin low latency audio and disable audio effects.

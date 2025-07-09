@@ -1,0 +1,22 @@
+#lowlatency
+persist.kirin.media.lowlatency.enable=true
+persist.media.lowlatency.enable=true
+ro.config.hw_lowlatency=true
+ro.config.a2dp_lowLatency=true
+ro.game.low_audio_effect=true
+#media
+persist.kirin.media.offload.enable=true
+persist.kirin.media.hires.enable=true
+persist.kirin.alloc_buffer_sync=true
+#hardware support
+ro.config.wifi_fast_bss_enable=true
+ro.config.supports_bluetooth_high_pwr=true
+ro.log.kernel=false
+#sws
+ro.config.hw_sws=false
+ro.config.hw_dts_settings=false
+ro.config.hw_dts=false
+ro.config.hw_dtsmode=false
+ro.config.hw_music_dts=false
+persist.sys.dts=false
+ro.config.hw_dolby=false
