@@ -8,6 +8,7 @@ The project is also posted in [CoolApk](https://www.coolapk.com/feed/52302433?sh
 The module supports operation on the following models:
 ----
 Sound card (Mandatory) : hi3660_hi6430_Card<br>
+System:EMUI/HarmonyOS<br>
 This can be seen in hardware-audio with Root permissions in Devcheck<br>
 Support processor: Kirin 960, Kirin 970, Kirin 980(?)<br>
 You may use it on other processors to turn off those sound effects<br><br>
